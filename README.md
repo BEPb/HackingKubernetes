@@ -16,11 +16,23 @@
 # HackingKubernetes 
 </div>
 
-HackingKubernetes - ..... 
+HackingKubernetes - is a valuable resource and a leading container management system in development pipelines across 
+the world, but it’s not exempt from malicious attacks. Using Kubernetes requires a deep understanding of Kubernetes’ 
+environment—including the different vulnerabilities you can be exposed to while creating, deploying, or running 
+applications in your clusters.
+
+Since your Kubernetes cluster is likely one of your most valuable cloud resources, it needs to be protected. 
+Kubernetes’ security addresses the safety of your cloud, application clusters, containers, apps and code. Although 
+Kubernetes provides inherent security advantages, bolstering your defensive tactics is crucial to protecting your 
+system against hackers and other cybersecurity threats.    
 
 ## Intro
 - [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
 - [Kubernetes adoption, security, and market trends report](https://www.redhat.com/en/resources/kubernetes-adoption-security-market-trends-overview)
+
+### Official documentation kubernetes
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- 
 
 ### Intro from TryHackMe (free)
 - [Intro to IaC](https://tryhackme.com/r/room/introtoiac)
@@ -36,12 +48,33 @@ HackingKubernetes - .....
 - [Frank & Herby make an app](https://tryhackme.com/r/room/frankandherby)
 - [Frank & Herby make an app with answers](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Frank%20%26%20Herby%20make%20an%20app.md)
 
+### Intro from vmware
+- [What is Kubernetes?](https://www.vmware.com/topics/kubernetes)
+- [What is DevSecOps?](https://tanzu.vmware.com/devsecops)
+- [What is Kubernetes Architecture?](https://www.vmware.com/topics/kubernetes-architecture)
+- [What are Kubernetes Services?](https://www.vmware.com/topics/kubernetes-services)
+- [What is Kubernetes Security?](https://www.vmware.com/topics/kubernetes-security)
+- [What is Kubernetes Networking?](https://www.vmware.com/topics/kubernetes-networking)
+- [What are Kubernetes Clusters vs. Nodes vs. Pods vs. Containers vs. Containerized Applications?](https://www.vmware.com/topics/components-kubernetes)
+- [What are Kubernetes Pods?](https://www.vmware.com/topics/kubernetes-pods)
+
 ### [A Deep Dive Into Kubernetes Pods](https://blog.yarsalabs.com/a-deep-dive-into-kubernetes-pods/)
 - [Installing the Components required for a Kubernetes Cluster](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part1/)
 - [TLS Certificates Management for a Kubernetes Cluster](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part2/)
 - [ETCD Server Setup for a Kubernetes Cluster](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part3/)
 - [Generating Kubernetes Configuration Files for Authentication](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part4/)
 - [Creating the Kubernetes Control Plane](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part5/)
+
+### Atricles How to Hack Kubernetes
+- [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/)
+- [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+<img src="./art/kubernetes_arquitecture.png" alt="logo">
+- [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
+- [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
+- [Kubernetes Pentest Methodology Part 3](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
+- [Eight Ways to Create a Pod](https://www.cyberark.com/resources/threat-research-blog/eight-ways-to-create-a-pod)
+- [Unit 42 CTR: Leaked Code from Docker Registries](https://unit42.paloaltonetworks.com/leaked-docker-code/)
+- [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
 
 
 <img src="./art/HackingKubernetes0.jpg" alt="logo">
