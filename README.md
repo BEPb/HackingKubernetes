@@ -11,7 +11,7 @@
 </p>
 <div align="center">
 
-<img src="./art/tryhackme.jpeg" alt="logo" width="300" height="156.5">
+<img src="./art/HackingKubernetes.png" alt="logo" width="300" height="156.5">
 
 # HackingKubernetes 
 </div>
@@ -42,7 +42,7 @@ HackingKubernetes - .....
 - [ETCD Server Setup for a Kubernetes Cluster](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part3/)
 - [Generating Kubernetes Configuration Files for Authentication](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part4/)
 - [Creating the Kubernetes Control Plane](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part5/)
-- []
 
-<img src="./art/top1.png" alt="logo">
+
+<img src="./art/HackingKubernetes0.jpg" alt="logo">
 
