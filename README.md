@@ -77,6 +77,22 @@ system against hackers and other cybersecurity threats.
 - [Unit 42 CTR: Leaked Code from Docker Registries](https://unit42.paloaltonetworks.com/leaked-docker-code/)
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
 
+### Tools
+- [KubiScan](https://github.com/cyberark/KubiScan)
+- [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks)
+- [kubeletctl](https://github.com/cyberark/kubeletctl)
+- [neuvector](https://github.com/neuvector/neuvector)
+- [Kubescape](https://kubescape.io/)
+- [checkov](https://github.com/bridgecrewio/checkov)
+- [kubesploit](https://github.com/cyberark/kubesploit)
+- [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
+
+
+
+
+
+
 
 <img src="./art/HackingKubernetes0.jpg" alt="logo">
 
