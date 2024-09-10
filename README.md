@@ -81,6 +81,7 @@ system against hackers and other cybersecurity threats.
 - [quick reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 - [k8s_cheatsheet.md](https://github.com/BEPb/HackingKubernetes/blob/master/pdf/k8s_cheatsheet.md)
 - [k8s-cheat-sheet](https://encore.dev/resources/k8s-cheat-sheet)
+- [kubernetes-cheat-sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet)
 
 <img src="./art/kubernetes_arquitecture.png" alt="arquitecture">
 <img src="./art/ports_kubernetes.png" alt="ports">
