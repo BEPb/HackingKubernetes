@@ -68,6 +68,7 @@ system against hackers and other cybersecurity threats.
 ### Atricles How to Hack Kubernetes
 - [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/)
 - [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+
 <img src="./art/kubernetes_arquitecture.png" alt="logo">
 
 - [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
@@ -76,6 +77,11 @@ system against hackers and other cybersecurity threats.
 - [Eight Ways to Create a Pod](https://www.cyberark.com/resources/threat-research-blog/eight-ways-to-create-a-pod)
 - [Unit 42 CTR: Leaked Code from Docker Registries](https://unit42.paloaltonetworks.com/leaked-docker-code/)
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
+
+### PDF
+- [Learn by Hacking](https://github.com/calinah/learn-by-hacking-kccn/blob/master/Learn%20by%20Hacking.pdf)
+- [k8s_cheatsheet.md](https://github.com/calinah/learn-by-hacking-kccn/blob/master/k8s_cheatsheet.md)
+- 
 
 ### Tools
 - [neuvector](https://github.com/neuvector/neuvector)
