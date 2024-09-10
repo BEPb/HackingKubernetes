@@ -79,8 +79,8 @@ system against hackers and other cybersecurity threats.
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
 
 ### PDF
-- [Learn by Hacking](https://github.com/calinah/learn-by-hacking-kccn/blob/master/Learn%20by%20Hacking.pdf)
-- [k8s_cheatsheet.md](https://github.com/calinah/learn-by-hacking-kccn/blob/master/k8s_cheatsheet.md)
+- [Learn by Hacking](https://github.com/BEPb/HackingKubernetes/blob/master/pdf/Learn%20by%20Hacking.pdf)
+- [k8s_cheatsheet.md](https://github.com/BEPb/HackingKubernetes/blob/master/pdf/k8s_cheatsheet.md)
 - 
 
 ### Tools
