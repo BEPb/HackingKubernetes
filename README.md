@@ -29,10 +29,12 @@ system against hackers and other cybersecurity threats.
 ## Intro
 - [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
 - [Kubernetes adoption, security, and market trends report](https://www.redhat.com/en/resources/kubernetes-adoption-security-market-trends-overview)
+- [k8s_cheatsheet.md](https://github.com/BEPb/HackingKubernetes/blob/master/pdf/k8s_cheatsheet.md)
 
 ### Official documentation kubernetes
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- 
+- [11 Ways (Not) to Get Hacked](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
+- [Security kubernetes](https://kubernetes.io/docs/concepts/security/)
 
 ### Intro from TryHackMe (free)
 - [Intro to IaC](https://tryhackme.com/r/room/introtoiac)
@@ -80,7 +82,7 @@ system against hackers and other cybersecurity threats.
 
 ### PDF
 - [Learn by Hacking](https://github.com/calinah/learn-by-hacking-kccn/blob/master/Learn%20by%20Hacking.pdf)
-- [k8s_cheatsheet.md](https://github.com/BEPb/HackingKubernetes/blob/master/pdf/k8s_cheatsheet.md)
+- 
 - 
 
 ### Tools
