@@ -33,6 +33,7 @@ system against hackers and other cybersecurity threats.
 
 ### Official documentation kubernetes
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [Github repo kubernetes](https://github.com/kubernetes/kubernetes/)
 - [11 Ways (Not) to Get Hacked](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 - [Security kubernetes](https://kubernetes.io/docs/concepts/security/)
 - [Docker Engine security](https://docs.docker.com/engine/security/)
@@ -82,6 +83,8 @@ system against hackers and other cybersecurity threats.
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
 - [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation)
 - [Attacking Kubernetes clusters using the Kubelet API](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+- [Threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Secure containerized environments with updated threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 
 ### PDF
 - [Learn by Hacking](https://github.com/calinah/learn-by-hacking-kccn/blob/master/Learn%20by%20Hacking.pdf)
@@ -101,6 +104,7 @@ system against hackers and other cybersecurity threats.
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
 - [etcdctl](https://github.com/etcd-io/etcd/blob/main/etcdctl/READMEv2.md)
 - [JSON Web Tokens](https://jwt.io/)
+- [kubolt](https://github.com/averonesis/kubolt/)
 
 
 
