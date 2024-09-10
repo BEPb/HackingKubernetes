@@ -35,6 +35,7 @@ system against hackers and other cybersecurity threats.
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [11 Ways (Not) to Get Hacked](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 - [Security kubernetes](https://kubernetes.io/docs/concepts/security/)
+- [Docker Engine security](https://docs.docker.com/engine/security/)
 
 ### Intro from TryHackMe (free)
 - [Intro to IaC](https://tryhackme.com/r/room/introtoiac)
@@ -67,18 +68,20 @@ system against hackers and other cybersecurity threats.
 - [Generating Kubernetes Configuration Files for Authentication](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part4/)
 - [Creating the Kubernetes Control Plane](https://blog.yarsalabs.com/kubernetes-cluster-from-scratch-part5/)
 
+<img src="./art/kubernetes_arquitecture.png" alt="arquitecture">
+<img src="./art/ports_kubernetes.png" alt="ports">
+
+
 ### Atricles How to Hack Kubernetes
 - [How to Hack Kubernetes (and How to Protect It)](https://goteleport.com/blog/how-to-hack-kubernetes/)
 - [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
-
-<img src="./art/kubernetes_arquitecture.png" alt="logo">
-
 - [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
 - [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
 - [Kubernetes Pentest Methodology Part 3](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
 - [Eight Ways to Create a Pod](https://www.cyberark.com/resources/threat-research-blog/eight-ways-to-create-a-pod)
-- [Unit 42 CTR: Leaked Code from Docker Registries](https://unit42.paloaltonetworks.com/leaked-docker-code/)
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/)
+- [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation)
+- [Attacking Kubernetes clusters using the Kubelet API](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
 
 ### PDF
 - [Learn by Hacking](https://github.com/calinah/learn-by-hacking-kccn/blob/master/Learn%20by%20Hacking.pdf)
@@ -96,7 +99,8 @@ system against hackers and other cybersecurity threats.
 - [kubesploit](https://github.com/cyberark/kubesploit)
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
-
+- [etcdctl](https://github.com/etcd-io/etcd/blob/main/etcdctl/READMEv2.md)
+- [JSON Web Tokens](https://jwt.io/)
 
 
 
