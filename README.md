@@ -82,6 +82,7 @@ system against hackers and other cybersecurity threats.
 - [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks)
 - [KubiScan](https://github.com/cyberark/KubiScan)
 - [kubeletctl](https://github.com/cyberark/kubeletctl)
+- [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit)
 - [Kubescape](https://kubescape.io/)
 - [checkov](https://github.com/bridgecrewio/checkov)
 - [kubesploit](https://github.com/cyberark/kubesploit)
