@@ -117,7 +117,6 @@ system against hackers and other cybersecurity threats.
 - [Kubernetes Security 101: Risks and 29 Best Practices](https://www.stackrox.com/post/2020/05/kubernetes-security-101)
 - [15 Kubernetes security best practice to secure your cluster](https://www.mobilise.cloud/15-kubernetes-security-best-practice-to-secure-your-cluster)
 - [The Ultimate Guide to Kubernetes Security](https://neuvector.com/container-security/kubernetes-security-guide)
-- [A hacker's guide to Kubernetes security](https://techbeacon.com/enterprise-it/hackers-guide-kubernetes-security)
 - [11 Ways (Not) to Get Hacked](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked)
 - [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/#6-securely-configure-the-kubernetes-api-server)
 - [A Practical Guide to Kubernetes Logging](https://logz.io/blog/a-practical-guide-to-kubernetes-logging)
